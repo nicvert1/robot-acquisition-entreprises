@@ -1,6 +1,4 @@
+google-search-results
 supabase
-requests
 python-dotenv
-serpapi
-beautifulsoup4
-lxml
+requests
