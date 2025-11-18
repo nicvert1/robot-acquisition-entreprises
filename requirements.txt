@@ -2,3 +2,4 @@ google-search-results
 supabase
 python-dotenv
 requests
+beautifulsoup4
